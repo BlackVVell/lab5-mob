@@ -1,0 +1,31 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color purple_200
+color purple_500
+color purple_700
+color teal_200
+color teal_700
+color white
+drawable donut_circle
+drawable froyo_circle
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+drawable icecream_circle
+id donut_image
+id froyo_image
+id icecream_image
+id toolbar
+layout activity_donut
+layout activity_froyo
+layout activity_ice_cream
+layout activity_main
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+string donut_name
+string froyo_name
+string icecream_name
+style Theme.OrderActivity
+xml backup_rules
+xml data_extraction_rules
